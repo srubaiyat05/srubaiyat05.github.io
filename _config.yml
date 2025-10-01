@@ -8,29 +8,29 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Sumadhu Rubaiyat (Genie)"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Sumadhu Rubaiyat (Genie)"
-description              : &description "Sumadhu Rubaiyat"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sumadhu-rubaiyat.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Your Name"
+description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "srubaiyat05/sumadhu-rubaiyat.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bigdata copy.jpg"
-  name             : "Sumadhu Rubaiyat (Genie)"
-  pronouns         : #"she/her"  
-  bio              : "4th Year Undergraduate at UCSD"
-  location         : "San Diego"
-  employer         : "University of California - San Diego"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "srubaiyat@ucsd.edu" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
