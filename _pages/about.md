@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fourth-year undergraduate student at UC San Diego studying Mathematics and Computer Science, with a minor in Data Science. I've done computer vision research for 2 years in Professor Michael Yip's ARCLab and recieved Honors with High Distiction for my work in symbolic dynamics with Professor Joshua Frisch. I am currently working with Professor Rose Yu regarding how deep learning can detect emergent symmetry, Professor Sanjoy Dasgupta on interpretable alternatives to random forests, Professor Russell Impagliazzo on scalable solutions to the Small Enclosing Ball Problem, and Professor Sicun Gao on the sample complexity of a reinforcement learning inspired optimization technique called "Sample and Bound". Broadly, my research interests encompass data-driven algorithms, particularly learning algorithms. I'm specifically interested in problems with strongly symmetric or mathematical structure, such as graph algorithms, equation learning, etc, or in problems regarding the minimum effectiveness of ensemble learning, sample/time complexity of popular algorithms, local/global approximations to black-box models, etc.
 
-I'm currently looking for a PhD advisor in theoretical computer science for Fall 2026. Contact me at [srubaiyat@ucsd.edu](srubaiyat@ucsd.edu) if you're interested. For more details, see my [cv](https://jiankeyang.github.io/files/cv.pdf).
+I'm currently looking for a PhD advisor in theoretical computer science for Fall 2026. Contact me at [srubaiyat@ucsd.edu](srubaiyat@ucsd.edu) if you're interested. For more details, see my [cv](https://srubaiyat05.github.io/files/CV.pdf).
 
 # News
 * August 2025: Paper "Feedback-centric Optimized Time-critical Recommendation" presented at IEEE Big Data 2025 Tutorial.
